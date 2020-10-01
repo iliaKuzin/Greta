@@ -1,0 +1,57 @@
+body
+{
+background: #DDDDFF;
+}
+.first
+{
+    width: 380px;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 30px;
+    padding: 50px 0px 0px 0px;
+}
+.image
+{
+    padding: 10px;
+}
+.image2
+{
+    margin-right: 200px;
+    width: 330px;
+    height: 200px;
+    padding: 10px;
+    background-image: url(Image/pic03.jpg);
+    background-size: cover;
+    border-radius: 10px 50px 10px 50px;
+    margin-top: 10px;
+}
+.image3
+{
+    margin-left: 200px;
+    width: 330px;
+    height: 200px;
+    padding: 10px;
+    background-image: url(Image/pic04.jpg);
+    background-size: cover;
+    border-radius: 10px 50px 10px 50px;
+    margin-top: 40px;
+}
+.text
+{
+    width: 560px;
+    text-align: left;
+    font-family: Tahoma;
+    padding: 20px;
+}
+.line
+{
+    width: 400px;
+    height: 10px;
+    background: red;
+    margin: 50px;
+}
+a
+{
+    color: gray;
+    font-size: 25px;
+}
